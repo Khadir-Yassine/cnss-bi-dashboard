@@ -1,0 +1,501 @@
+AFF_NUM,DATE_AFFILIATION,SECTEUR_ID,LIBELLE_SECTEUR,REGION_ID,LIBELLE_REGION,VILLE_ID,LIBELLE_VILLE
+AFF0000202,02/02/2000,11,Activités Immobilières,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000203,11/07/2007,13,Activités de Services Administratifs,9,Souss-Massa,36,Agadir
+AFF0000204,15/03/1986,4,Production et Distribution d'Énergie,7,Marrakech-Safi,28,Marrakech
+AFF0000205,15/05/2022,9,Information et Communication,2,L'Oriental,7,Nador
+AFF0000206,08/10/2020,17,Autres Activités de Services,6,Casablanca-Settat,24,Casablanca
+AFF0000207,02/11/2015,10,Activités Financières et d'Assurance,3,Fès-Meknès,12,Meknès
+AFF0000208,24/12/1995,18,Services Domestiques,3,Fès-Meknès,13,Ifrane
+AFF0000209,22/10/2014,14,Enseignement,2,L'Oriental,6,Oujda
+AFF0000210,07/10/2018,2,Industries Extractives,4,Rabat-Salé-Kénitra,15,Rabat
+AFF0000211,05/03/2021,17,Autres Activités de Services,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000212,16/03/1978,12,"Activités Spécialisées, Scientifiques et Techniques",10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000213,27/06/1998,11,Activités Immobilières,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000214,21/10/2024,19,Organisations Extraterritoriales,7,Marrakech-Safi,29,Safi
+AFF0000215,05/09/1989,9,Information et Communication,2,L'Oriental,9,Taourirt
+AFF0000216,26/04/1992,15,Santé Humaine et Action Sociale,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000217,07/09/1965,14,Enseignement,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000218,12/08/2005,11,Activités Immobilières,2,L'Oriental,6,Oujda
+AFF0000219,15/11/2021,11,Activités Immobilières,6,Casablanca-Settat,24,Casablanca
+AFF0000220,05/03/1973,4,Production et Distribution d'Énergie,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000221,14/08/2020,15,Santé Humaine et Action Sociale,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000222,05/08/2016,17,Autres Activités de Services,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000223,05/03/2015,17,Autres Activités de Services,7,Marrakech-Safi,28,Marrakech
+AFF0000224,05/01/2008,3,Industrie Manufacturière,7,Marrakech-Safi,30,Essaouira
+AFF0000225,21/11/1965,16,"Arts, Spectacles et Activités Récréatives",10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000226,07/03/1988,14,Enseignement,7,Marrakech-Safi,29,Safi
+AFF0000227,13/04/1986,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000228,28/02/2022,19,Organisations Extraterritoriales,9,Souss-Massa,36,Agadir
+AFF0000229,16/01/2020,2,Industries Extractives,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000230,20/12/2002,16,"Arts, Spectacles et Activités Récréatives",5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000231,20/01/2023,8,Hébergement et Restauration,6,Casablanca-Settat,26,Mohammedia
+AFF0000232,11/07/2000,6,Commerce et Réparation d'Automobiles,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000233,24/11/1998,3,Industrie Manufacturière,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000234,24/08/1983,5,Construction et BTP,9,Souss-Massa,38,Taroudant
+AFF0000235,24/12/1974,6,Commerce et Réparation d'Automobiles,6,Casablanca-Settat,27,El Jadida
+AFF0000236,19/06/2018,18,Services Domestiques,9,Souss-Massa,36,Agadir
+AFF0000237,04/06/2015,3,Industrie Manufacturière,1,Tanger-Tétouan-Al Hoceïma,4,Larache
+AFF0000238,13/07/2014,17,Autres Activités de Services,2,L'Oriental,7,Nador
+AFF0000239,06/02/2021,8,Hébergement et Restauration,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000240,21/05/2024,14,Enseignement,4,Rabat-Salé-Kénitra,18,Témara
+AFF0000241,29/05/2015,3,Industrie Manufacturière,2,L'Oriental,9,Taourirt
+AFF0000242,21/04/1986,13,Activités de Services Administratifs,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000243,19/05/1970,11,Activités Immobilières,9,Souss-Massa,37,Tiznit
+AFF0000244,27/10/1993,16,"Arts, Spectacles et Activités Récréatives",11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000245,28/10/1996,17,Autres Activités de Services,2,L'Oriental,8,Berkane
+AFF0000246,28/05/2014,5,Construction et BTP,2,L'Oriental,6,Oujda
+AFF0000247,23/03/1980,14,Enseignement,5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000248,15/05/2017,17,Autres Activités de Services,8,Drâa-Tafilalet,35,Tinghir
+AFF0000249,09/08/2004,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,32,Errachidia
+AFF0000250,11/05/2023,18,Services Domestiques,5,Béni Mellal-Khénifra,23,Khouribga
+AFF0000251,25/07/1965,4,Production et Distribution d'Énergie,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000252,14/10/2022,6,Commerce et Réparation d'Automobiles,5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000253,02/11/2024,2,Industries Extractives,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000254,12/05/1987,9,Information et Communication,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000255,03/09/2017,14,Enseignement,2,L'Oriental,9,Taourirt
+AFF0000256,20/04/1992,7,Transport et Entreposage,8,Drâa-Tafilalet,34,Zagora
+AFF0000257,15/08/1990,16,"Arts, Spectacles et Activités Récréatives",10,Guelmim-Oued Noun,40,Guelmim
+AFF0000258,28/07/2024,12,"Activités Spécialisées, Scientifiques et Techniques",8,Drâa-Tafilalet,32,Errachidia
+AFF0000259,09/02/2005,18,Services Domestiques,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000260,08/09/2002,18,Services Domestiques,5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000261,05/08/2023,10,Activités Financières et d'Assurance,2,L'Oriental,8,Berkane
+AFF0000262,19/06/1985,18,Services Domestiques,4,Rabat-Salé-Kénitra,15,Rabat
+AFF0000263,22/05/1965,10,Activités Financières et d'Assurance,2,L'Oriental,7,Nador
+AFF0000264,14/03/1978,14,Enseignement,6,Casablanca-Settat,27,El Jadida
+AFF0000265,27/04/2014,8,Hébergement et Restauration,5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000266,10/10/1991,14,Enseignement,9,Souss-Massa,39,Inezgane
+AFF0000267,02/06/2006,9,Information et Communication,1,Tanger-Tétouan-Al Hoceïma,3,Al Hoceïma
+AFF0000268,12/03/2024,8,Hébergement et Restauration,2,L'Oriental,7,Nador
+AFF0000269,15/12/2009,10,Activités Financières et d'Assurance,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000270,15/10/2015,17,Autres Activités de Services,8,Drâa-Tafilalet,32,Errachidia
+AFF0000271,14/01/2011,1,"Agriculture, Sylviculture et Pêche",6,Casablanca-Settat,26,Mohammedia
+AFF0000272,06/02/1969,13,Activités de Services Administratifs,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000273,10/10/2010,10,Activités Financières et d'Assurance,8,Drâa-Tafilalet,35,Tinghir
+AFF0000274,07/12/1987,1,"Agriculture, Sylviculture et Pêche",6,Casablanca-Settat,27,El Jadida
+AFF0000275,01/08/2022,10,Activités Financières et d'Assurance,1,Tanger-Tétouan-Al Hoceïma,2,Tétouan
+AFF0000276,22/10/2005,13,Activités de Services Administratifs,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000277,25/08/2001,5,Construction et BTP,7,Marrakech-Safi,30,Essaouira
+AFF0000278,22/12/2015,19,Organisations Extraterritoriales,5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000279,06/12/1968,15,Santé Humaine et Action Sociale,6,Casablanca-Settat,24,Casablanca
+AFF0000280,12/12/2018,10,Activités Financières et d'Assurance,9,Souss-Massa,39,Inezgane
+AFF0000281,15/08/2014,6,Commerce et Réparation d'Automobiles,9,Souss-Massa,39,Inezgane
+AFF0000282,02/10/2013,12,"Activités Spécialisées, Scientifiques et Techniques",9,Souss-Massa,39,Inezgane
+AFF0000283,04/08/2021,3,Industrie Manufacturière,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000284,14/07/1990,10,Activités Financières et d'Assurance,9,Souss-Massa,37,Tiznit
+AFF0000285,22/08/2020,7,Transport et Entreposage,9,Souss-Massa,37,Tiznit
+AFF0000286,23/01/1975,2,Industries Extractives,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000287,05/02/2017,10,Activités Financières et d'Assurance,3,Fès-Meknès,11,Fès
+AFF0000288,30/06/2023,7,Transport et Entreposage,9,Souss-Massa,37,Tiznit
+AFF0000289,19/10/2014,4,Production et Distribution d'Énergie,2,L'Oriental,8,Berkane
+AFF0000290,06/01/2024,6,Commerce et Réparation d'Automobiles,6,Casablanca-Settat,25,Settat
+AFF0000291,25/07/2008,11,Activités Immobilières,4,Rabat-Salé-Kénitra,15,Rabat
+AFF0000292,20/07/1967,3,Industrie Manufacturière,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000293,28/04/1972,14,Enseignement,6,Casablanca-Settat,27,El Jadida
+AFF0000294,18/11/2011,11,Activités Immobilières,7,Marrakech-Safi,29,Safi
+AFF0000295,18/08/2010,9,Information et Communication,1,Tanger-Tétouan-Al Hoceïma,1,Tanger
+AFF0000296,16/01/1987,19,Organisations Extraterritoriales,2,L'Oriental,6,Oujda
+AFF0000297,07/01/1988,18,Services Domestiques,4,Rabat-Salé-Kénitra,15,Rabat
+AFF0000298,16/10/2014,17,Autres Activités de Services,7,Marrakech-Safi,30,Essaouira
+AFF0000299,17/11/2020,19,Organisations Extraterritoriales,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000300,16/12/1992,18,Services Domestiques,2,L'Oriental,7,Nador
+AFF0000301,11/03/2023,19,Organisations Extraterritoriales,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000302,27/07/2003,7,Transport et Entreposage,6,Casablanca-Settat,24,Casablanca
+AFF0000303,12/03/1967,6,Commerce et Réparation d'Automobiles,1,Tanger-Tétouan-Al Hoceïma,3,Al Hoceïma
+AFF0000304,20/01/1996,12,"Activités Spécialisées, Scientifiques et Techniques",3,Fès-Meknès,11,Fès
+AFF0000305,04/09/2017,10,Activités Financières et d'Assurance,3,Fès-Meknès,13,Ifrane
+AFF0000306,30/06/2018,1,"Agriculture, Sylviculture et Pêche",7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000307,03/11/1979,10,Activités Financières et d'Assurance,2,L'Oriental,6,Oujda
+AFF0000308,22/03/2010,13,Activités de Services Administratifs,7,Marrakech-Safi,30,Essaouira
+AFF0000309,07/12/1989,16,"Arts, Spectacles et Activités Récréatives",6,Casablanca-Settat,25,Settat
+AFF0000310,08/03/2024,5,Construction et BTP,8,Drâa-Tafilalet,34,Zagora
+AFF0000311,14/08/2021,6,Commerce et Réparation d'Automobiles,9,Souss-Massa,37,Tiznit
+AFF0000312,20/09/2011,12,"Activités Spécialisées, Scientifiques et Techniques",11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000313,31/05/1998,12,"Activités Spécialisées, Scientifiques et Techniques",3,Fès-Meknès,12,Meknès
+AFF0000314,05/10/1991,5,Construction et BTP,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000315,28/05/2010,10,Activités Financières et d'Assurance,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000316,13/07/2013,6,Commerce et Réparation d'Automobiles,9,Souss-Massa,38,Taroudant
+AFF0000317,12/08/2008,18,Services Domestiques,3,Fès-Meknès,12,Meknès
+AFF0000318,12/04/1967,14,Enseignement,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000319,10/08/1983,1,"Agriculture, Sylviculture et Pêche",4,Rabat-Salé-Kénitra,16,Salé
+AFF0000320,07/08/2010,10,Activités Financières et d'Assurance,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000321,28/02/2013,13,Activités de Services Administratifs,6,Casablanca-Settat,25,Settat
+AFF0000322,14/03/1965,8,Hébergement et Restauration,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000323,04/07/2007,7,Transport et Entreposage,6,Casablanca-Settat,24,Casablanca
+AFF0000324,30/12/2000,13,Activités de Services Administratifs,7,Marrakech-Safi,30,Essaouira
+AFF0000325,22/10/1987,18,Services Domestiques,2,L'Oriental,8,Berkane
+AFF0000326,19/08/2013,9,Information et Communication,5,Béni Mellal-Khénifra,23,Khouribga
+AFF0000327,21/06/1995,9,Information et Communication,3,Fès-Meknès,13,Ifrane
+AFF0000328,31/07/2006,4,Production et Distribution d'Énergie,3,Fès-Meknès,11,Fès
+AFF0000329,26/12/1972,14,Enseignement,6,Casablanca-Settat,25,Settat
+AFF0000330,24/11/2015,7,Transport et Entreposage,6,Casablanca-Settat,26,Mohammedia
+AFF0000331,06/05/2020,15,Santé Humaine et Action Sociale,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000332,15/01/2014,11,Activités Immobilières,7,Marrakech-Safi,30,Essaouira
+AFF0000333,20/09/2021,3,Industrie Manufacturière,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000334,08/11/1968,4,Production et Distribution d'Énergie,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000335,01/04/1986,11,Activités Immobilières,8,Drâa-Tafilalet,35,Tinghir
+AFF0000336,29/09/2005,8,Hébergement et Restauration,8,Drâa-Tafilalet,35,Tinghir
+AFF0000337,28/08/2004,17,Autres Activités de Services,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000338,17/08/2023,7,Transport et Entreposage,3,Fès-Meknès,12,Meknès
+AFF0000339,01/03/1998,3,Industrie Manufacturière,7,Marrakech-Safi,29,Safi
+AFF0000340,16/08/2022,3,Industrie Manufacturière,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000341,23/01/2024,13,Activités de Services Administratifs,2,L'Oriental,10,Jerada
+AFF0000342,01/10/2018,17,Autres Activités de Services,7,Marrakech-Safi,29,Safi
+AFF0000343,26/07/2001,2,Industries Extractives,7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000344,01/05/2008,11,Activités Immobilières,3,Fès-Meknès,13,Ifrane
+AFF0000345,20/05/2016,16,"Arts, Spectacles et Activités Récréatives",7,Marrakech-Safi,29,Safi
+AFF0000346,14/10/1992,16,"Arts, Spectacles et Activités Récréatives",6,Casablanca-Settat,25,Settat
+AFF0000347,11/07/1965,17,Autres Activités de Services,1,Tanger-Tétouan-Al Hoceïma,4,Larache
+AFF0000348,16/10/1966,16,"Arts, Spectacles et Activités Récréatives",8,Drâa-Tafilalet,32,Errachidia
+AFF0000349,30/05/2009,7,Transport et Entreposage,6,Casablanca-Settat,27,El Jadida
+AFF0000350,31/10/2018,1,"Agriculture, Sylviculture et Pêche",6,Casablanca-Settat,26,Mohammedia
+AFF0000351,03/03/2010,17,Autres Activités de Services,8,Drâa-Tafilalet,35,Tinghir
+AFF0000352,08/02/2023,10,Activités Financières et d'Assurance,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000353,08/04/1987,13,Activités de Services Administratifs,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000354,26/05/2004,15,Santé Humaine et Action Sociale,6,Casablanca-Settat,24,Casablanca
+AFF0000355,29/09/1986,16,"Arts, Spectacles et Activités Récréatives",3,Fès-Meknès,14,Taza
+AFF0000356,05/01/2014,19,Organisations Extraterritoriales,9,Souss-Massa,39,Inezgane
+AFF0000357,28/12/2016,16,"Arts, Spectacles et Activités Récréatives",2,L'Oriental,9,Taourirt
+AFF0000358,10/09/1992,11,Activités Immobilières,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000359,29/11/1973,16,"Arts, Spectacles et Activités Récréatives",8,Drâa-Tafilalet,35,Tinghir
+AFF0000360,29/03/1981,6,Commerce et Réparation d'Automobiles,7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000361,12/12/2013,1,"Agriculture, Sylviculture et Pêche",6,Casablanca-Settat,26,Mohammedia
+AFF0000362,27/05/2022,17,Autres Activités de Services,4,Rabat-Salé-Kénitra,15,Rabat
+AFF0000363,09/07/1995,1,"Agriculture, Sylviculture et Pêche",6,Casablanca-Settat,24,Casablanca
+AFF0000364,01/09/1998,5,Construction et BTP,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000365,30/10/2011,13,Activités de Services Administratifs,1,Tanger-Tétouan-Al Hoceïma,4,Larache
+AFF0000366,15/06/2022,19,Organisations Extraterritoriales,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000367,03/01/2024,1,"Agriculture, Sylviculture et Pêche",8,Drâa-Tafilalet,35,Tinghir
+AFF0000368,31/01/1975,2,Industries Extractives,9,Souss-Massa,39,Inezgane
+AFF0000369,12/05/1973,8,Hébergement et Restauration,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000370,20/03/1994,16,"Arts, Spectacles et Activités Récréatives",6,Casablanca-Settat,24,Casablanca
+AFF0000371,26/10/2013,18,Services Domestiques,9,Souss-Massa,39,Inezgane
+AFF0000372,25/02/2017,1,"Agriculture, Sylviculture et Pêche",2,L'Oriental,8,Berkane
+AFF0000373,07/09/2023,3,Industrie Manufacturière,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000374,13/09/1970,19,Organisations Extraterritoriales,7,Marrakech-Safi,30,Essaouira
+AFF0000375,06/12/1977,6,Commerce et Réparation d'Automobiles,1,Tanger-Tétouan-Al Hoceïma,4,Larache
+AFF0000376,28/09/2024,7,Transport et Entreposage,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000377,10/06/2015,19,Organisations Extraterritoriales,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000378,10/02/1989,19,Organisations Extraterritoriales,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000379,22/07/2006,19,Organisations Extraterritoriales,9,Souss-Massa,37,Tiznit
+AFF0000380,23/11/2013,10,Activités Financières et d'Assurance,3,Fès-Meknès,13,Ifrane
+AFF0000381,24/12/2023,2,Industries Extractives,1,Tanger-Tétouan-Al Hoceïma,1,Tanger
+AFF0000382,28/06/2021,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,34,Zagora
+AFF0000383,17/12/2003,10,Activités Financières et d'Assurance,9,Souss-Massa,39,Inezgane
+AFF0000384,27/06/2004,14,Enseignement,4,Rabat-Salé-Kénitra,18,Témara
+AFF0000385,15/01/2011,17,Autres Activités de Services,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000386,24/06/2003,2,Industries Extractives,9,Souss-Massa,37,Tiznit
+AFF0000387,22/03/2016,8,Hébergement et Restauration,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000388,10/04/1966,1,"Agriculture, Sylviculture et Pêche",5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000389,08/02/2006,6,Commerce et Réparation d'Automobiles,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000390,16/03/1989,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000391,17/05/2001,11,Activités Immobilières,2,L'Oriental,6,Oujda
+AFF0000392,08/06/1966,4,Production et Distribution d'Énergie,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000393,10/09/2017,8,Hébergement et Restauration,3,Fès-Meknès,12,Meknès
+AFF0000394,15/02/2020,10,Activités Financières et d'Assurance,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000395,08/01/1970,6,Commerce et Réparation d'Automobiles,7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000396,24/11/2018,5,Construction et BTP,2,L'Oriental,10,Jerada
+AFF0000397,18/09/1967,16,"Arts, Spectacles et Activités Récréatives",4,Rabat-Salé-Kénitra,18,Témara
+AFF0000398,02/06/2016,6,Commerce et Réparation d'Automobiles,9,Souss-Massa,36,Agadir
+AFF0000399,22/08/1987,10,Activités Financières et d'Assurance,9,Souss-Massa,36,Agadir
+AFF0000400,18/03/1992,19,Organisations Extraterritoriales,1,Tanger-Tétouan-Al Hoceïma,3,Al Hoceïma
+AFF0000401,04/03/2000,2,Industries Extractives,8,Drâa-Tafilalet,35,Tinghir
+AFF0000402,14/12/1974,17,Autres Activités de Services,3,Fès-Meknès,13,Ifrane
+AFF0000403,25/04/1970,10,Activités Financières et d'Assurance,3,Fès-Meknès,12,Meknès
+AFF0000404,13/02/1971,4,Production et Distribution d'Énergie,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000405,17/07/1997,7,Transport et Entreposage,7,Marrakech-Safi,30,Essaouira
+AFF0000406,07/07/2008,10,Activités Financières et d'Assurance,4,Rabat-Salé-Kénitra,18,Témara
+AFF0000407,20/11/1991,19,Organisations Extraterritoriales,7,Marrakech-Safi,28,Marrakech
+AFF0000408,16/05/1981,6,Commerce et Réparation d'Automobiles,7,Marrakech-Safi,30,Essaouira
+AFF0000409,04/05/2023,1,"Agriculture, Sylviculture et Pêche",5,Béni Mellal-Khénifra,21,Azilal
+AFF0000410,05/05/1983,18,Services Domestiques,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000411,14/04/1994,19,Organisations Extraterritoriales,1,Tanger-Tétouan-Al Hoceïma,2,Tétouan
+AFF0000412,16/06/2015,1,"Agriculture, Sylviculture et Pêche",7,Marrakech-Safi,29,Safi
+AFF0000413,06/01/1988,2,Industries Extractives,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000414,10/02/2024,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,32,Errachidia
+AFF0000415,16/07/2023,6,Commerce et Réparation d'Automobiles,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000416,07/04/1973,1,"Agriculture, Sylviculture et Pêche",9,Souss-Massa,39,Inezgane
+AFF0000417,04/07/1982,17,Autres Activités de Services,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000418,22/04/1971,17,Autres Activités de Services,9,Souss-Massa,36,Agadir
+AFF0000419,19/04/1995,16,"Arts, Spectacles et Activités Récréatives",4,Rabat-Salé-Kénitra,18,Témara
+AFF0000420,05/05/1970,13,Activités de Services Administratifs,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000421,19/02/1991,5,Construction et BTP,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000422,02/07/2002,17,Autres Activités de Services,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000423,18/03/2001,11,Activités Immobilières,9,Souss-Massa,37,Tiznit
+AFF0000424,14/11/2004,14,Enseignement,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000425,16/10/2002,4,Production et Distribution d'Énergie,2,L'Oriental,8,Berkane
+AFF0000426,05/11/2013,12,"Activités Spécialisées, Scientifiques et Techniques",2,L'Oriental,10,Jerada
+AFF0000427,05/10/2020,14,Enseignement,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000428,18/01/2016,19,Organisations Extraterritoriales,9,Souss-Massa,39,Inezgane
+AFF0000429,28/01/2020,15,Santé Humaine et Action Sociale,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000430,08/08/2021,11,Activités Immobilières,7,Marrakech-Safi,30,Essaouira
+AFF0000431,01/06/1992,5,Construction et BTP,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000432,06/08/1968,11,Activités Immobilières,2,L'Oriental,8,Berkane
+AFF0000433,29/11/1987,11,Activités Immobilières,7,Marrakech-Safi,28,Marrakech
+AFF0000434,04/04/1972,11,Activités Immobilières,8,Drâa-Tafilalet,35,Tinghir
+AFF0000435,25/08/1973,4,Production et Distribution d'Énergie,9,Souss-Massa,36,Agadir
+AFF0000436,03/03/1975,15,Santé Humaine et Action Sociale,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000437,16/04/1967,7,Transport et Entreposage,3,Fès-Meknès,11,Fès
+AFF0000438,10/01/2015,17,Autres Activités de Services,9,Souss-Massa,39,Inezgane
+AFF0000439,26/06/1991,2,Industries Extractives,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000440,15/06/1985,2,Industries Extractives,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000441,18/03/1997,16,"Arts, Spectacles et Activités Récréatives",6,Casablanca-Settat,26,Mohammedia
+AFF0000442,11/05/2011,8,Hébergement et Restauration,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000443,14/01/1969,11,Activités Immobilières,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000444,22/11/1997,19,Organisations Extraterritoriales,1,Tanger-Tétouan-Al Hoceïma,4,Larache
+AFF0000445,19/08/1991,7,Transport et Entreposage,8,Drâa-Tafilalet,32,Errachidia
+AFF0000446,27/11/2010,7,Transport et Entreposage,1,Tanger-Tétouan-Al Hoceïma,1,Tanger
+AFF0000447,13/03/1985,9,Information et Communication,3,Fès-Meknès,11,Fès
+AFF0000448,14/08/1971,15,Santé Humaine et Action Sociale,6,Casablanca-Settat,25,Settat
+AFF0000449,06/06/2020,10,Activités Financières et d'Assurance,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000450,15/08/2014,19,Organisations Extraterritoriales,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000451,04/03/2022,7,Transport et Entreposage,9,Souss-Massa,39,Inezgane
+AFF0000452,22/02/2024,11,Activités Immobilières,9,Souss-Massa,37,Tiznit
+AFF0000453,23/06/1989,19,Organisations Extraterritoriales,1,Tanger-Tétouan-Al Hoceïma,2,Tétouan
+AFF0000454,15/07/1972,16,"Arts, Spectacles et Activités Récréatives",10,Guelmim-Oued Noun,40,Guelmim
+AFF0000455,23/03/2009,13,Activités de Services Administratifs,2,L'Oriental,8,Berkane
+AFF0000456,26/07/2020,16,"Arts, Spectacles et Activités Récréatives",8,Drâa-Tafilalet,35,Tinghir
+AFF0000457,14/06/2015,19,Organisations Extraterritoriales,9,Souss-Massa,38,Taroudant
+AFF0000458,19/03/1977,8,Hébergement et Restauration,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000459,21/10/2006,10,Activités Financières et d'Assurance,9,Souss-Massa,37,Tiznit
+AFF0000460,02/05/1991,8,Hébergement et Restauration,3,Fès-Meknès,12,Meknès
+AFF0000461,17/10/2002,19,Organisations Extraterritoriales,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000462,05/07/1975,8,Hébergement et Restauration,5,Béni Mellal-Khénifra,23,Khouribga
+AFF0000463,23/09/2022,18,Services Domestiques,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000464,13/11/1987,2,Industries Extractives,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000465,31/01/2006,18,Services Domestiques,3,Fès-Meknès,11,Fès
+AFF0000466,23/09/1991,13,Activités de Services Administratifs,7,Marrakech-Safi,30,Essaouira
+AFF0000467,03/08/2004,17,Autres Activités de Services,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000468,10/04/2007,15,Santé Humaine et Action Sociale,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000469,01/07/2000,8,Hébergement et Restauration,2,L'Oriental,10,Jerada
+AFF0000470,03/09/1992,14,Enseignement,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000471,21/02/2007,2,Industries Extractives,9,Souss-Massa,36,Agadir
+AFF0000472,25/09/2006,1,"Agriculture, Sylviculture et Pêche",9,Souss-Massa,37,Tiznit
+AFF0000473,30/08/2017,15,Santé Humaine et Action Sociale,2,L'Oriental,9,Taourirt
+AFF0000474,28/05/2003,12,"Activités Spécialisées, Scientifiques et Techniques",11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000475,03/01/1990,5,Construction et BTP,2,L'Oriental,6,Oujda
+AFF0000476,19/07/2013,10,Activités Financières et d'Assurance,3,Fès-Meknès,11,Fès
+AFF0000477,28/11/2011,17,Autres Activités de Services,5,Béni Mellal-Khénifra,23,Khouribga
+AFF0000478,13/04/2008,19,Organisations Extraterritoriales,5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000479,02/08/2017,1,"Agriculture, Sylviculture et Pêche",5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000480,14/12/2009,1,"Agriculture, Sylviculture et Pêche",9,Souss-Massa,39,Inezgane
+AFF0000481,22/06/1976,3,Industrie Manufacturière,9,Souss-Massa,36,Agadir
+AFF0000482,27/06/1988,14,Enseignement,3,Fès-Meknès,12,Meknès
+AFF0000483,27/09/2021,2,Industries Extractives,6,Casablanca-Settat,25,Settat
+AFF0000484,03/09/1981,8,Hébergement et Restauration,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000485,17/04/2010,12,"Activités Spécialisées, Scientifiques et Techniques",11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000486,11/04/2002,10,Activités Financières et d'Assurance,2,L'Oriental,8,Berkane
+AFF0000487,11/04/2010,18,Services Domestiques,9,Souss-Massa,36,Agadir
+AFF0000488,05/03/1975,15,Santé Humaine et Action Sociale,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000489,17/11/2022,8,Hébergement et Restauration,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000490,23/12/1970,15,Santé Humaine et Action Sociale,8,Drâa-Tafilalet,35,Tinghir
+AFF0000491,15/09/2007,1,"Agriculture, Sylviculture et Pêche",10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000492,24/03/1993,8,Hébergement et Restauration,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000493,03/10/1983,7,Transport et Entreposage,7,Marrakech-Safi,28,Marrakech
+AFF0000494,16/06/1990,5,Construction et BTP,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000495,05/05/2006,10,Activités Financières et d'Assurance,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000496,13/04/1979,18,Services Domestiques,5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000497,28/01/1991,5,Construction et BTP,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000498,23/12/2015,8,Hébergement et Restauration,8,Drâa-Tafilalet,32,Errachidia
+AFF0000499,28/10/2017,8,Hébergement et Restauration,6,Casablanca-Settat,24,Casablanca
+AFF0000500,10/02/1972,14,Enseignement,6,Casablanca-Settat,25,Settat
+AFF0000001,10/05/2017,16,"Arts, Spectacles et Activités Récréatives",7,Marrakech-Safi,29,Safi
+AFF0000002,05/07/2015,1,"Agriculture, Sylviculture et Pêche",7,Marrakech-Safi,29,Safi
+AFF0000003,12/02/2014,15,Santé Humaine et Action Sociale,7,Marrakech-Safi,30,Essaouira
+AFF0000004,09/07/1996,15,Santé Humaine et Action Sociale,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000005,12/07/2018,16,"Arts, Spectacles et Activités Récréatives",7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000006,11/07/2015,5,Construction et BTP,9,Souss-Massa,38,Taroudant
+AFF0000007,20/09/1986,16,"Arts, Spectacles et Activités Récréatives",6,Casablanca-Settat,27,El Jadida
+AFF0000008,25/03/2008,3,Industrie Manufacturière,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000009,22/05/2005,2,Industries Extractives,7,Marrakech-Safi,30,Essaouira
+AFF0000010,14/07/2016,17,Autres Activités de Services,8,Drâa-Tafilalet,35,Tinghir
+AFF0000011,26/01/2024,5,Construction et BTP,8,Drâa-Tafilalet,35,Tinghir
+AFF0000012,24/10/2000,16,"Arts, Spectacles et Activités Récréatives",6,Casablanca-Settat,25,Settat
+AFF0000013,30/05/1992,9,Information et Communication,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000014,08/11/1993,7,Transport et Entreposage,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000015,15/07/2016,18,Services Domestiques,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000016,10/01/2014,13,Activités de Services Administratifs,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000017,13/10/1996,4,Production et Distribution d'Énergie,6,Casablanca-Settat,25,Settat
+AFF0000018,08/02/1989,16,"Arts, Spectacles et Activités Récréatives",1,Tanger-Tétouan-Al Hoceïma,3,Al Hoceïma
+AFF0000019,29/10/1968,2,Industries Extractives,2,L'Oriental,7,Nador
+AFF0000020,22/12/2000,2,Industries Extractives,9,Souss-Massa,36,Agadir
+AFF0000021,10/07/1971,8,Hébergement et Restauration,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000022,27/03/1977,9,Information et Communication,7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000023,27/05/2010,17,Autres Activités de Services,8,Drâa-Tafilalet,34,Zagora
+AFF0000024,26/06/1965,17,Autres Activités de Services,9,Souss-Massa,38,Taroudant
+AFF0000025,24/07/2009,17,Autres Activités de Services,5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000026,27/09/2023,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000027,05/10/2016,15,Santé Humaine et Action Sociale,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000028,09/02/2013,2,Industries Extractives,8,Drâa-Tafilalet,34,Zagora
+AFF0000029,25/03/1998,15,Santé Humaine et Action Sociale,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000030,29/09/2017,12,"Activités Spécialisées, Scientifiques et Techniques",9,Souss-Massa,36,Agadir
+AFF0000031,01/03/2000,14,Enseignement,6,Casablanca-Settat,27,El Jadida
+AFF0000032,01/12/2018,15,Santé Humaine et Action Sociale,7,Marrakech-Safi,29,Safi
+AFF0000033,10/02/2021,6,Commerce et Réparation d'Automobiles,6,Casablanca-Settat,26,Mohammedia
+AFF0000034,28/04/2006,6,Commerce et Réparation d'Automobiles,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000035,13/01/1997,1,"Agriculture, Sylviculture et Pêche",6,Casablanca-Settat,24,Casablanca
+AFF0000036,29/01/1992,7,Transport et Entreposage,7,Marrakech-Safi,30,Essaouira
+AFF0000037,25/06/2007,13,Activités de Services Administratifs,9,Souss-Massa,36,Agadir
+AFF0000038,04/09/1973,5,Construction et BTP,3,Fès-Meknès,11,Fès
+AFF0000039,28/10/2017,17,Autres Activités de Services,7,Marrakech-Safi,28,Marrakech
+AFF0000040,27/03/1986,9,Information et Communication,2,L'Oriental,9,Taourirt
+AFF0000041,10/11/2013,15,Santé Humaine et Action Sociale,7,Marrakech-Safi,29,Safi
+AFF0000042,04/04/2007,18,Services Domestiques,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000043,22/04/1983,11,Activités Immobilières,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000044,06/08/1976,7,Transport et Entreposage,7,Marrakech-Safi,28,Marrakech
+AFF0000045,12/08/1989,11,Activités Immobilières,8,Drâa-Tafilalet,35,Tinghir
+AFF0000046,13/01/2016,1,"Agriculture, Sylviculture et Pêche",5,Béni Mellal-Khénifra,22,Fquih Ben Salah
+AFF0000047,22/09/2009,6,Commerce et Réparation d'Automobiles,7,Marrakech-Safi,29,Safi
+AFF0000048,04/03/2000,6,Commerce et Réparation d'Automobiles,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000049,09/05/1979,13,Activités de Services Administratifs,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000050,25/08/1998,1,"Agriculture, Sylviculture et Pêche",9,Souss-Massa,39,Inezgane
+AFF0000051,18/05/2015,16,"Arts, Spectacles et Activités Récréatives",7,Marrakech-Safi,30,Essaouira
+AFF0000052,15/02/2009,14,Enseignement,4,Rabat-Salé-Kénitra,15,Rabat
+AFF0000053,08/12/1971,14,Enseignement,2,L'Oriental,10,Jerada
+AFF0000054,13/06/2023,15,Santé Humaine et Action Sociale,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000055,27/08/1976,11,Activités Immobilières,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000056,02/06/1997,9,Information et Communication,2,L'Oriental,6,Oujda
+AFF0000057,02/10/2021,5,Construction et BTP,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000058,23/05/2022,18,Services Domestiques,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000059,29/09/1990,19,Organisations Extraterritoriales,2,L'Oriental,6,Oujda
+AFF0000060,25/12/2010,14,Enseignement,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000061,05/02/1996,19,Organisations Extraterritoriales,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000062,06/04/1988,5,Construction et BTP,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000063,27/03/2017,6,Commerce et Réparation d'Automobiles,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000064,09/11/2016,19,Organisations Extraterritoriales,9,Souss-Massa,36,Agadir
+AFF0000065,04/05/2011,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000066,08/02/2020,13,Activités de Services Administratifs,2,L'Oriental,8,Berkane
+AFF0000067,15/02/2020,8,Hébergement et Restauration,6,Casablanca-Settat,27,El Jadida
+AFF0000068,20/10/1975,19,Organisations Extraterritoriales,7,Marrakech-Safi,30,Essaouira
+AFF0000069,13/10/1993,15,Santé Humaine et Action Sociale,6,Casablanca-Settat,27,El Jadida
+AFF0000070,13/01/2010,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,35,Tinghir
+AFF0000071,22/09/1979,1,"Agriculture, Sylviculture et Pêche",9,Souss-Massa,37,Tiznit
+AFF0000072,23/10/1993,7,Transport et Entreposage,8,Drâa-Tafilalet,35,Tinghir
+AFF0000073,23/04/1985,9,Information et Communication,3,Fès-Meknès,11,Fès
+AFF0000074,24/08/1980,5,Construction et BTP,2,L'Oriental,6,Oujda
+AFF0000075,25/09/2024,4,Production et Distribution d'Énergie,8,Drâa-Tafilalet,32,Errachidia
+AFF0000076,26/05/2013,5,Construction et BTP,2,L'Oriental,9,Taourirt
+AFF0000077,11/07/1990,19,Organisations Extraterritoriales,7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000078,23/02/1975,15,Santé Humaine et Action Sociale,11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000079,04/08/2003,11,Activités Immobilières,1,Tanger-Tétouan-Al Hoceïma,2,Tétouan
+AFF0000080,30/10/1993,2,Industries Extractives,8,Drâa-Tafilalet,34,Zagora
+AFF0000081,03/01/1981,9,Information et Communication,7,Marrakech-Safi,28,Marrakech
+AFF0000082,24/07/2022,12,"Activités Spécialisées, Scientifiques et Techniques",1,Tanger-Tétouan-Al Hoceïma,1,Tanger
+AFF0000083,02/11/1975,15,Santé Humaine et Action Sociale,6,Casablanca-Settat,27,El Jadida
+AFF0000084,26/11/2010,7,Transport et Entreposage,2,L'Oriental,9,Taourirt
+AFF0000085,22/03/1993,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,34,Zagora
+AFF0000086,15/06/1968,18,Services Domestiques,4,Rabat-Salé-Kénitra,17,Kénitra
+AFF0000087,13/03/1972,1,"Agriculture, Sylviculture et Pêche",5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000088,09/03/1997,16,"Arts, Spectacles et Activités Récréatives",4,Rabat-Salé-Kénitra,18,Témara
+AFF0000089,07/01/1978,14,Enseignement,2,L'Oriental,10,Jerada
+AFF0000090,30/11/2013,15,Santé Humaine et Action Sociale,3,Fès-Meknès,14,Taza
+AFF0000091,08/08/1997,16,"Arts, Spectacles et Activités Récréatives",3,Fès-Meknès,13,Ifrane
+AFF0000092,16/12/2014,7,Transport et Entreposage,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000093,08/12/1996,12,"Activités Spécialisées, Scientifiques et Techniques",3,Fès-Meknès,13,Ifrane
+AFF0000094,24/12/1978,14,Enseignement,2,L'Oriental,10,Jerada
+AFF0000095,01/03/2020,11,Activités Immobilières,7,Marrakech-Safi,28,Marrakech
+AFF0000096,19/04/2018,19,Organisations Extraterritoriales,7,Marrakech-Safi,29,Safi
+AFF0000097,25/06/2016,19,Organisations Extraterritoriales,9,Souss-Massa,36,Agadir
+AFF0000098,06/05/2015,3,Industrie Manufacturière,2,L'Oriental,6,Oujda
+AFF0000099,20/10/2004,11,Activités Immobilières,1,Tanger-Tétouan-Al Hoceïma,2,Tétouan
+AFF0000100,23/11/2000,14,Enseignement,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000101,02/08/2023,2,Industries Extractives,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000102,28/09/2016,6,Commerce et Réparation d'Automobiles,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000103,22/02/2013,6,Commerce et Réparation d'Automobiles,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000104,28/07/1977,1,"Agriculture, Sylviculture et Pêche",3,Fès-Meknès,14,Taza
+AFF0000105,10/08/2013,11,Activités Immobilières,7,Marrakech-Safi,28,Marrakech
+AFF0000106,19/06/2008,10,Activités Financières et d'Assurance,8,Drâa-Tafilalet,35,Tinghir
+AFF0000107,21/04/2018,11,Activités Immobilières,3,Fès-Meknès,13,Ifrane
+AFF0000108,27/01/2013,7,Transport et Entreposage,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000109,08/12/2016,16,"Arts, Spectacles et Activités Récréatives",1,Tanger-Tétouan-Al Hoceïma,3,Al Hoceïma
+AFF0000110,06/10/1995,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000111,26/03/2013,15,Santé Humaine et Action Sociale,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000112,28/06/1997,2,Industries Extractives,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000113,22/05/1992,10,Activités Financières et d'Assurance,9,Souss-Massa,39,Inezgane
+AFF0000114,18/09/2022,11,Activités Immobilières,7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000115,13/01/2003,10,Activités Financières et d'Assurance,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000116,13/11/2022,4,Production et Distribution d'Énergie,7,Marrakech-Safi,29,Safi
+AFF0000117,18/11/1993,9,Information et Communication,8,Drâa-Tafilalet,34,Zagora
+AFF0000118,06/12/2003,6,Commerce et Réparation d'Automobiles,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000119,13/07/2011,1,"Agriculture, Sylviculture et Pêche",9,Souss-Massa,37,Tiznit
+AFF0000120,12/09/2013,15,Santé Humaine et Action Sociale,7,Marrakech-Safi,28,Marrakech
+AFF0000121,10/10/2005,14,Enseignement,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000122,21/05/2022,5,Construction et BTP,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000123,19/11/2016,5,Construction et BTP,2,L'Oriental,9,Taourirt
+AFF0000124,12/06/1983,1,"Agriculture, Sylviculture et Pêche",5,Béni Mellal-Khénifra,21,Azilal
+AFF0000125,03/04/2010,12,"Activités Spécialisées, Scientifiques et Techniques",8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000126,25/02/1994,9,Information et Communication,3,Fès-Meknès,12,Meknès
+AFF0000127,29/08/1967,6,Commerce et Réparation d'Automobiles,7,Marrakech-Safi,31,Kelaa des Sraghna
+AFF0000128,21/05/2023,1,"Agriculture, Sylviculture et Pêche",5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000129,04/11/2022,5,Construction et BTP,7,Marrakech-Safi,30,Essaouira
+AFF0000130,10/05/2000,9,Information et Communication,8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000131,23/06/1996,12,"Activités Spécialisées, Scientifiques et Techniques",8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000132,13/12/2018,10,Activités Financières et d'Assurance,3,Fès-Meknès,12,Meknès
+AFF0000133,19/07/2016,6,Commerce et Réparation d'Automobiles,6,Casablanca-Settat,24,Casablanca
+AFF0000134,17/02/2021,1,"Agriculture, Sylviculture et Pêche",11,Laâyoune-Sakia El Hamra,45,Tarfaya
+AFF0000135,19/12/2017,9,Information et Communication,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000136,04/03/1976,17,Autres Activités de Services,7,Marrakech-Safi,29,Safi
+AFF0000137,01/05/2013,11,Activités Immobilières,3,Fès-Meknès,13,Ifrane
+AFF0000138,11/06/2011,19,Organisations Extraterritoriales,9,Souss-Massa,38,Taroudant
+AFF0000139,31/10/1967,18,Services Domestiques,4,Rabat-Salé-Kénitra,15,Rabat
+AFF0000140,24/01/1978,14,Enseignement,9,Souss-Massa,38,Taroudant
+AFF0000141,03/11/2014,4,Production et Distribution d'Énergie,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000142,27/06/1992,11,Activités Immobilières,7,Marrakech-Safi,30,Essaouira
+AFF0000143,03/05/2002,19,Organisations Extraterritoriales,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000144,19/01/2017,7,Transport et Entreposage,8,Drâa-Tafilalet,32,Errachidia
+AFF0000145,30/05/2009,7,Transport et Entreposage,6,Casablanca-Settat,26,Mohammedia
+AFF0000146,14/01/1969,4,Production et Distribution d'Énergie,1,Tanger-Tétouan-Al Hoceïma,5,Chefchaouen
+AFF0000147,29/01/1986,16,"Arts, Spectacles et Activités Récréatives",3,Fès-Meknès,12,Meknès
+AFF0000148,14/12/2024,5,Construction et BTP,8,Drâa-Tafilalet,34,Zagora
+AFF0000149,03/12/2015,8,Hébergement et Restauration,3,Fès-Meknès,12,Meknès
+AFF0000150,12/01/1969,15,Santé Humaine et Action Sociale,6,Casablanca-Settat,24,Casablanca
+AFF0000151,02/06/2024,11,Activités Immobilières,7,Marrakech-Safi,29,Safi
+AFF0000152,20/09/1987,6,Commerce et Réparation d'Automobiles,8,Drâa-Tafilalet,32,Errachidia
+AFF0000153,13/10/1983,10,Activités Financières et d'Assurance,2,L'Oriental,8,Berkane
+AFF0000154,09/10/2010,11,Activités Immobilières,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000155,27/10/2017,19,Organisations Extraterritoriales,9,Souss-Massa,36,Agadir
+AFF0000156,23/02/2017,18,Services Domestiques,2,L'Oriental,8,Berkane
+AFF0000157,19/11/1990,7,Transport et Entreposage,8,Drâa-Tafilalet,34,Zagora
+AFF0000158,08/12/2020,18,Services Domestiques,5,Béni Mellal-Khénifra,19,Béni Mellal
+AFF0000159,17/06/1987,2,Industries Extractives,6,Casablanca-Settat,25,Settat
+AFF0000160,08/08/2015,7,Transport et Entreposage,1,Tanger-Tétouan-Al Hoceïma,3,Al Hoceïma
+AFF0000161,04/09/2023,3,Industrie Manufacturière,9,Souss-Massa,37,Tiznit
+AFF0000162,18/08/2014,9,Information et Communication,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000163,18/05/2014,13,Activités de Services Administratifs,9,Souss-Massa,39,Inezgane
+AFF0000164,13/09/1995,10,Activités Financières et d'Assurance,3,Fès-Meknès,14,Taza
+AFF0000165,03/06/2005,12,"Activités Spécialisées, Scientifiques et Techniques",11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000166,17/08/2015,19,Organisations Extraterritoriales,11,Laâyoune-Sakia El Hamra,44,Boujdour
+AFF0000167,09/01/1998,16,"Arts, Spectacles et Activités Récréatives",6,Casablanca-Settat,26,Mohammedia
+AFF0000168,03/10/2021,19,Organisations Extraterritoriales,9,Souss-Massa,36,Agadir
+AFF0000169,24/12/1995,19,Organisations Extraterritoriales,1,Tanger-Tétouan-Al Hoceïma,3,Al Hoceïma
+AFF0000170,17/04/2015,17,Autres Activités de Services,6,Casablanca-Settat,27,El Jadida
+AFF0000171,02/03/2021,19,Organisations Extraterritoriales,9,Souss-Massa,37,Tiznit
+AFF0000172,20/12/1997,19,Organisations Extraterritoriales,1,Tanger-Tétouan-Al Hoceïma,2,Tétouan
+AFF0000173,24/03/1977,16,"Arts, Spectacles et Activités Récréatives",8,Drâa-Tafilalet,35,Tinghir
+AFF0000174,27/07/2020,18,Services Domestiques,6,Casablanca-Settat,24,Casablanca
+AFF0000175,24/07/2009,14,Enseignement,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000176,02/12/2013,4,Production et Distribution d'Énergie,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000177,01/09/1996,19,Organisations Extraterritoriales,1,Tanger-Tétouan-Al Hoceïma,2,Tétouan
+AFF0000178,13/06/2010,17,Autres Activités de Services,5,Béni Mellal-Khénifra,23,Khouribga
+AFF0000179,28/10/1979,16,"Arts, Spectacles et Activités Récréatives",8,Drâa-Tafilalet,33,Ouarzazate
+AFF0000180,01/06/1992,16,"Arts, Spectacles et Activités Récréatives",3,Fès-Meknès,13,Ifrane
+AFF0000181,16/02/2015,1,"Agriculture, Sylviculture et Pêche",7,Marrakech-Safi,29,Safi
+AFF0000182,25/06/1974,12,"Activités Spécialisées, Scientifiques et Techniques",10,Guelmim-Oued Noun,40,Guelmim
+AFF0000183,02/01/2019,14,Enseignement,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000184,05/08/2023,1,"Agriculture, Sylviculture et Pêche",8,Drâa-Tafilalet,35,Tinghir
+AFF0000185,23/12/2023,1,"Agriculture, Sylviculture et Pêche",3,Fès-Meknès,13,Ifrane
+AFF0000186,13/11/2021,2,Industries Extractives,1,Tanger-Tétouan-Al Hoceïma,3,Al Hoceïma
+AFF0000187,04/03/1977,8,Hébergement et Restauration,10,Guelmim-Oued Noun,40,Guelmim
+AFF0000188,04/05/1973,7,Transport et Entreposage,3,Fès-Meknès,11,Fès
+AFF0000189,17/10/1976,4,Production et Distribution d'Énergie,5,Béni Mellal-Khénifra,20,Khénifra
+AFF0000190,03/01/2024,15,Santé Humaine et Action Sociale,3,Fès-Meknès,11,Fès
+AFF0000191,12/04/1967,18,Services Domestiques,5,Béni Mellal-Khénifra,21,Azilal
+AFF0000192,28/07/1973,4,Production et Distribution d'Énergie,8,Drâa-Tafilalet,35,Tinghir
+AFF0000193,27/08/2007,11,Activités Immobilières,4,Rabat-Salé-Kénitra,16,Salé
+AFF0000194,12/11/1985,14,Enseignement,3,Fès-Meknès,13,Ifrane
+AFF0000195,14/08/1983,17,Autres Activités de Services,11,Laâyoune-Sakia El Hamra,43,Laâyoune
+AFF0000196,14/06/1975,11,Activités Immobilières,10,Guelmim-Oued Noun,42,Sidi Ifni
+AFF0000197,08/01/1975,10,Activités Financières et d'Assurance,3,Fès-Meknès,11,Fès
+AFF0000198,18/06/1995,16,"Arts, Spectacles et Activités Récréatives",6,Casablanca-Settat,26,Mohammedia
+AFF0000199,06/04/1986,14,Enseignement,10,Guelmim-Oued Noun,41,Tan-Tan
+AFF0000200,09/12/2007,1,"Agriculture, Sylviculture et Pêche",9,Souss-Massa,36,Agadir
+AFF0000201,10/06/1976,13,Activités de Services Administratifs,3,Fès-Meknès,12,Meknès

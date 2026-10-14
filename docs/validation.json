@@ -1,0 +1,79 @@
+{
+  "data_origin": "Synthetic data, as documented in the internship report; not official CNSS statistics.",
+  "tables": {
+    "tableau_aff.csv": {
+      "rows": 500,
+      "missing_cells": 0,
+      "duplicate_keys": 0
+    },
+    "tableau_cal.csv": {
+      "rows": 36,
+      "missing_cells": 0,
+      "duplicate_keys": 0
+    },
+    "tableau_payment.csv": {
+      "rows": 18000,
+      "missing_cells": 0,
+      "duplicate_keys": 0
+    },
+    "tableau_salaires.csv": {
+      "rows": 836244,
+      "missing_cells": 0,
+      "duplicate_keys": 0
+    }
+  },
+  "distinct_employers": 500,
+  "distinct_insured_identifiers": 23229,
+  "period_start": "202201",
+  "period_end": "202412",
+  "monthly_periods": 36,
+  "orphan_employer_references": 0,
+  "orphan_period_references": 0,
+  "negative_gross_salaries": 0,
+  "payroll_rows_per_month": {
+    "202201": 23229,
+    "202202": 23229,
+    "202203": 23229,
+    "202204": 23229,
+    "202205": 23229,
+    "202206": 23229,
+    "202207": 23229,
+    "202208": 23229,
+    "202209": 23229,
+    "202210": 23229,
+    "202211": 23229,
+    "202212": 23229,
+    "202301": 23229,
+    "202302": 23229,
+    "202303": 23229,
+    "202304": 23229,
+    "202305": 23229,
+    "202306": 23229,
+    "202307": 23229,
+    "202308": 23229,
+    "202309": 23229,
+    "202310": 23229,
+    "202311": 23229,
+    "202312": 23229,
+    "202401": 23229,
+    "202402": 23229,
+    "202403": 23229,
+    "202404": 23229,
+    "202405": 23229,
+    "202406": 23229,
+    "202407": 23229,
+    "202408": 23229,
+    "202409": 23229,
+    "202410": 23229,
+    "202411": 23229,
+    "202412": 23229
+  },
+  "metrics_MAD": {
+    "contributions_due_including_AMO": "888214207.22",
+    "contributions_paid": "754191292.83",
+    "penalties": "2694351.79",
+    "net_outstanding_including_penalties": "136717266.18",
+    "collection_ratio_percent": "84.91"
+  },
+  "structural_checks_passed": true
+}
