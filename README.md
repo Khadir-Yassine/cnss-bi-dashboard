@@ -1,5 +1,9 @@
 # CNSS Contributions & Payroll - Business Intelligence Dashboard
 
+[English](README.md) · [Français](README.fr.md) · [Documentation](docs/README.md)
+
+[![Portfolio validation](https://github.com/Khadir-Yassine/cnss-bi-dashboard/actions/workflows/validate.yml/badge.svg)](https://github.com/Khadir-Yassine/cnss-bi-dashboard/actions/workflows/validate.yml)
+
 A Tableau portfolio project that turns simulated employer contributions and payroll declarations into interactive reporting and what-if collection scenarios.
 
 **Author:** Yassine Khadir  
@@ -9,6 +13,17 @@ A Tableau portfolio project that turns simulated employer contributions and payr
 > This is an educational internship project built on synthetic data. It is not an official CNSS publication, a production system, or a source of actual employer, employee or collection statistics.
 
 ![Overview dashboard using simulated data](docs/images/overview.png)
+
+## Explore in two minutes
+
+| You want to… | Start here |
+| --- | --- |
+| See the result | The dashboard screenshots below |
+| Open the interactive workbook locally | [Packaged Tableau workbook](tableau/cnss_dashboard.twbx), then follow the opening instructions below |
+| Understand the data model | [Data dictionary](docs/data-dictionary.md) |
+| Review data quality and totals | [Published audit](docs/validation.json) |
+| Understand the prototype's boundaries | [Known limitations](docs/limitations.md) |
+| Read in French | [Présentation française](README.fr.md) |
 
 ## What the project demonstrates
 
@@ -66,9 +81,12 @@ With Python 3 installed, run from the repository root:
 
 ```sh
 python scripts/validate_data.py
+python scripts/check_repository.py
 ```
 
 No additional Python packages are needed. The script reads the four CSV files and writes `docs/validation.json`. It validates the CSV deliverables, not every Tableau filter, SQL constraint or original ETL execution.
+
+GitHub Actions runs both checks on pushes and pull requests, then checks that the committed audit matches the regenerated result. `SHA256SUMS` covers the published files; `.gitattributes` keeps text line endings consistent across Windows and Linux. The workbook and images are preserved as binary assets.
 
 ## Original workflow and included deliverables
 
@@ -105,6 +123,9 @@ docs/data-dictionary.md  Dataset fields and analytical grain
 docs/limitations.md      Prototype and interpretation limits
 docs/validation.json     Reproducible CSV audit results
 scripts/validate_data.py Data validation script
+scripts/check_repository.py File integrity and local link checks
+.github/workflows/       Automated portfolio validation
+README.fr.md             French project presentation
 ```
 
 ## Author

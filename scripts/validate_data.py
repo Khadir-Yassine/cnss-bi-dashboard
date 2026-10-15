@@ -65,7 +65,8 @@ def main():
     issues = sum(t['missing_cells'] + t['duplicate_keys'] for t in tables.values())
     issues += orphan_employers + orphan_periods + negative_salaries
     result['structural_checks_passed'] = issues == 0
-    (ROOT / 'docs/validation.json').write_text(json.dumps(result, indent=2), encoding='utf-8')
+    with (ROOT / 'docs/validation.json').open('w', encoding='utf-8', newline='\n') as output:
+        output.write(json.dumps(result, indent=2))
     print(json.dumps(result, indent=2))
     if issues:
         raise SystemExit('Data validation found structural issues; review docs/validation.json.')
